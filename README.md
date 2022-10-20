@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carolee_nguyen
+- 👋 Hi, I’m Carolee Nguyen
 - 👀 I’m interested in computational biology research
 - 📫 How to reach me ... via email! caroleen@uci.edu
 
